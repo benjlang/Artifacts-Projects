@@ -1,0 +1,28 @@
+h:\visual studio 2015\Projects\Test\Test\bin\Debug\Test.exe.config
+h:\visual studio 2015\Projects\Test\Test\bin\Debug\Test.exe
+h:\visual studio 2015\Projects\Test\Test\bin\Debug\Test.pdb
+h:\visual studio 2015\Projects\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+h:\visual studio 2015\Projects\Test\Test\obj\Debug\Test.Form1.resources
+h:\visual studio 2015\Projects\Test\Test\obj\Debug\Test.Properties.Resources.resources
+h:\visual studio 2015\Projects\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+h:\visual studio 2015\Projects\Test\Test\obj\Debug\Test.exe
+h:\visual studio 2015\Projects\Test\Test\obj\Debug\Test.pdb
+\\masd-students\STUDENTS\langbenj\desktop\Jo-2-Go\Test\bin\Debug\Test.exe.config
+\\masd-students\STUDENTS\langbenj\desktop\Jo-2-Go\Test\obj\Debug\Test.exe
+\\masd-students\STUDENTS\langbenj\desktop\Jo-2-Go\Test\obj\Debug\Test.pdb
+\\masd-students\STUDENTS\langbenj\desktop\Jo-2-Go\Test\bin\Debug\Test.exe
+\\masd-students\STUDENTS\langbenj\desktop\Jo-2-Go\Test\bin\Debug\Test.pdb
+\\masd-students\STUDENTS\langbenj\desktop\Jo-2-Go\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+\\masd-students\STUDENTS\langbenj\desktop\Jo-2-Go\Test\obj\Debug\Test.Form1.resources
+\\masd-students\STUDENTS\langbenj\desktop\Jo-2-Go\Test\obj\Debug\Test.Properties.Resources.resources
+\\masd-students\STUDENTS\langbenj\desktop\Jo-2-Go\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\blang\Desktop\Test\bin\Debug\Test.exe.config
+C:\Users\blang\Desktop\Test\bin\Debug\Test.exe
+C:\Users\blang\Desktop\Test\bin\Debug\Test.pdb
+C:\Users\blang\Desktop\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\blang\Desktop\Test\obj\Debug\Test.Form1.resources
+C:\Users\blang\Desktop\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\blang\Desktop\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\blang\Desktop\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\blang\Desktop\Test\obj\Debug\Test.exe
+C:\Users\blang\Desktop\Test\obj\Debug\Test.pdb

@@ -1,0 +1,11 @@
+C:\Users\blang\source\repos\Program Writer\Program Writer\obj\Debug\Program Writer.csprojResolveAssemblyReference.cache
+C:\Users\blang\source\repos\Program Writer\Program Writer\obj\Debug\Program Writer.csproj.CoreCompileInputs.cache
+C:\Users\blang\source\repos\Program Writer\Program Writer\bin\Debug\chromedriver.exe
+C:\Users\blang\source\repos\Program Writer\Program Writer\bin\Debug\chromedriver-license.txt
+C:\Users\blang\source\repos\Program Writer\Program Writer\bin\Debug\Program Writer.exe.config
+C:\Users\blang\source\repos\Program Writer\Program Writer\bin\Debug\Program Writer.exe
+C:\Users\blang\source\repos\Program Writer\Program Writer\bin\Debug\Program Writer.pdb
+C:\Users\blang\source\repos\Program Writer\Program Writer\bin\Debug\WebDriver.dll
+C:\Users\blang\source\repos\Program Writer\Program Writer\bin\Debug\WebDriver.xml
+C:\Users\blang\source\repos\Program Writer\Program Writer\obj\Debug\Program Writer.exe
+C:\Users\blang\source\repos\Program Writer\Program Writer\obj\Debug\Program Writer.pdb

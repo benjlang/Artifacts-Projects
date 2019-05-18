@@ -1,0 +1,16 @@
+C:\Users\blang\source\repos\LCAquaTimesheet\LCAquaTimesheet\obj\Debug\LCAquaTimesheet.csproj.CoreCompileInputs.cache
+C:\Users\blang\source\repos\LCAquaTimesheet\LCAquaTimesheet\bin\Debug\chromedriver.exe
+C:\Users\blang\source\repos\LCAquaTimesheet\LCAquaTimesheet\bin\Debug\chromedriver-license.txt
+C:\Users\blang\source\repos\LCAquaTimesheet\LCAquaTimesheet\bin\Debug\LCAquaTimesheet.exe.config
+C:\Users\blang\source\repos\LCAquaTimesheet\LCAquaTimesheet\bin\Debug\LCAquaTimesheet.exe
+C:\Users\blang\source\repos\LCAquaTimesheet\LCAquaTimesheet\bin\Debug\LCAquaTimesheet.pdb
+C:\Users\blang\source\repos\LCAquaTimesheet\LCAquaTimesheet\bin\Debug\WebDriver.dll
+C:\Users\blang\source\repos\LCAquaTimesheet\LCAquaTimesheet\bin\Debug\WebDriver.xml
+C:\Users\blang\source\repos\LCAquaTimesheet\LCAquaTimesheet\obj\Debug\LCAquaTimesheet.exe
+C:\Users\blang\source\repos\LCAquaTimesheet\LCAquaTimesheet\obj\Debug\LCAquaTimesheet.pdb
+C:\Users\blang\source\repos\LCAquaTimesheet\LCAquaTimesheet\bin\Debug\Castle.Core.dll
+C:\Users\blang\source\repos\LCAquaTimesheet\LCAquaTimesheet\bin\Debug\Selenium.WebDriver.WaitExtensions.dll
+C:\Users\blang\source\repos\LCAquaTimesheet\LCAquaTimesheet\bin\Debug\WebDriver.Support.dll
+C:\Users\blang\source\repos\LCAquaTimesheet\LCAquaTimesheet\bin\Debug\Castle.Core.xml
+C:\Users\blang\source\repos\LCAquaTimesheet\LCAquaTimesheet\bin\Debug\WebDriver.Support.xml
+C:\Users\blang\source\repos\LCAquaTimesheet\LCAquaTimesheet\obj\Debug\LCAquaTimesheet.csprojResolveAssemblyReference.cache

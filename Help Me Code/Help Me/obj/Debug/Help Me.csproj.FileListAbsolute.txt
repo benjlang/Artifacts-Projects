@@ -1,0 +1,8 @@
+C:\Users\blang\source\repos\Help Me\Help Me\bin\Debug\Help Me.exe.config
+C:\Users\blang\source\repos\Help Me\Help Me\bin\Debug\Help Me.exe
+C:\Users\blang\source\repos\Help Me\Help Me\bin\Debug\Help Me.pdb
+C:\Users\blang\source\repos\Help Me\Help Me\bin\Debug\WebDriver.dll
+C:\Users\blang\source\repos\Help Me\Help Me\bin\Debug\WebDriver.xml
+C:\Users\blang\source\repos\Help Me\Help Me\obj\Debug\Help Me.csproj.CoreCompileInputs.cache
+C:\Users\blang\source\repos\Help Me\Help Me\obj\Debug\Help Me.exe
+C:\Users\blang\source\repos\Help Me\Help Me\obj\Debug\Help Me.pdb
