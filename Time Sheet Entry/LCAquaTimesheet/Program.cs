@@ -23,8 +23,8 @@ namespace LCAquaTimesheet
         {
             window.WindowHide();        //hides CMD window
             string timeSheetLocation = @"C:\Users\blang\Desktop\TimeSheetUltimate.xlsx"; //not needed for final
-            string userName = "blang";
-            string passWord = "Thisisadev!0604";
+            string userName = "";
+            string passWord = "";
 
             Range cellRange = excel.StartExcelInput(timeSheetLocation);
             
